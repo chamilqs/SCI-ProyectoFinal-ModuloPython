@@ -1,0 +1,25 @@
+campo de estudio:
+
+paises derecha:
+- us
+- japon
+- canada
+- españa 
+- francia
+
+paises izquierda:
+- Belgium
+- Portugal
+- brazil
+- United Kingdom
+- Nicaragua
+
+Gráficas:
+1- Gráfico de barra top 5 de los paises más ricos (dataframe aparte)
+2- Gráfico de araña 5 de izquierda unemployment rate (corruption_index OPTIONAL)
+3- Gráfico de araña 5 de derecha unemployment rate (corruption_index OPTIONAL)
+4- Gráfico de barra agrupado de 10 países (CPI, GDP, ANUAL_INCOME)
+5- Gráfico de barra del precio de la gasolina (5 paises de derecha). 
+6- Gráfico de barra del precio de la gasolina (5 paises de izquierda). 
+7- Gráfico scatter con la población y cpi del país más rico de izquierda
+8- Gráfico scatter con la población y cpi del país más rico de derecha
